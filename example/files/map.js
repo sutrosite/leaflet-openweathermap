@@ -307,7 +307,7 @@ function initMap() {
 	var baseMaps = {
 		"OSM Standard": standard
 		, "OSM Humanitarian": humanitarian
-	//	, "ESRI Aerial": esri
+		, "ESRI Aerial": esri
 	};
 
 	var overlayMaps = {};
